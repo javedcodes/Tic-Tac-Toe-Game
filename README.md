@@ -29,7 +29,7 @@ To use this **Tic Tac Toe Game**, visit:
 
 ## Video Preview
 
-[![Watch the video](https://img.youtube.com/vi/QkUhQdhdD7c/0.jpg)](https://www.youtube.com/watch?v=QkUhQdhdD7c)
+[![Watch the video](https://img.youtube.com/vi/nNsvzuJ2Tk0/0.jpg)](https://www.youtube.com/watch?v=nNsvzuJ2Tk0)
 
 ## Contributing
 
